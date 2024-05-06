@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<p align="left">👨‍🎓  I’m a Student at RNS INSTIUTE OF TECHNOLOGY<br>🌱 I’m currently learning Flask<br> 💬 Ask me about Bootstrap, Java script , Python<br>📄 Know about my experiences  https://drive.google.com/file/d/1iA1oxNjrkc7n6eMu7flMoNKucCyh57Eo/view</p>
+<p align="left">👨‍🎓  I’m a Student at RNS INSTIUTE OF TECHNOLOGY<br>🌱 I’m currently learning Flask<br> 💬 Ask me about Bootstrap, Java script , Python<br>📄 Know about my experiences  https://drive.google.com/file/d/12DCH3sP0L2ZUZ1470wJLMleuzDZPzhaY/view?usp=drive_link</p>
 
 ###
 
